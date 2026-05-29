@@ -29,6 +29,7 @@ Built a React-based finance tracking application with expense analytics, visuali
 
 ## Public Repositories
 
+- [healthcare-kpi-analytics](https://github.com/itsHemu2K/healthcare-kpi-analytics): Python and SQL dashboard project for healthcare KPI reporting using synthetic operational data.
 - [deep-learning](https://github.com/itsHemu2K/deep-learning): Deep learning notebooks and model training experiments.
 - [ML-project](https://github.com/itsHemu2K/ML-project): Machine learning project space.
 - [nvram_editor](https://github.com/itsHemu2K/nvram_editor): Python desktop utility project.
