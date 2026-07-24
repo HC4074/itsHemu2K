@@ -7,7 +7,7 @@ Data analyst focused on SQL, Python, KPI reporting, dashboard development, and h
 - **Analytics and Reporting:** SQL, Python, Excel, Tableau, Power BI, KPI reporting, dashboard development, data visualization
 - **Data Workflows:** Data extraction, cleansing, validation, transformation, ETL-style workflows, reporting automation
 - **Healthcare Analytics:** Claims and operational KPI analysis, denial rate tracking, wait time trends, readmission indicators
-- **Programming:** Python, SQL, JavaScript, Java
+- **Programming:** Python, SQL, JavaScript, C++
 
 ## Featured Public Work
 
